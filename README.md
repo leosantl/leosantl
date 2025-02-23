@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Meu nome é Leonardo Santos</h1>
+<h1 align="center">Olá Meu nome é Leonardo Santos</h1>
 <p align="center"><strong> Seja bem-vindo ao meu portifólio</p>
 
 ###
