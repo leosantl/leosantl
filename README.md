@@ -1,7 +1,8 @@
-<h1 align="center">Olá 👋 Me Chamo Leonardo Santos</h1>
+<h1 align="center">Olá, Meu nome é Leonardo Santos</h1>
+<p align="center"><strong> Seja bem-vindo ao meu portifólio</p>
 
 ###
-<p align="left">👨‍💻 Sobre mim</p>
+<p align="left"><strong>👨‍💻 Sobre mim..</strong></p>
 Sou um profissional em transição de carreira das Forças Armadas para a área de tecnologia, com sólida experiência em liderança, gestão estratégica e tomada de decisão sob pressão. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINOVE e me especializo em análise de dados, automação e inteligência artificial generativa.</p>
 
 <p>Minha trajetória no Exército Brasileiro me proporcionou habilidades valiosas em coordenação de equipes, execução de projetos ágeis e otimização de processos. Tenho expertise em Python, SQL, RPA e visualização de dados, aplicando tecnologia para aumentar a eficiência operacional e impulsionar resultados estratégicos.</p>
